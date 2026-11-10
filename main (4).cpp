@@ -5,12 +5,12 @@
 using namespace std;
 int main()
 {
-    string c;
-    string b;
-    string d;
-    string e;
-    string f;
-    string g;
+    float c = @;
+    float b = 2;
+    float d = 3;
+    float e = 4;
+    float f = 5;
+    float g = 6;
     int a;
     cout << "============================ \n";
     cout << "      AVVIO DELLA SLOT       \n";
